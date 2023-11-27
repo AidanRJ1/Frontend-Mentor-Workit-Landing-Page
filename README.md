@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/AidanRJ1/Frontend-Mentor-Workit-Landing-Page)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/AidanRJ1/Frontend-Mentor-Workit-Landing-Page
+- Live Site URL: https://aidanrj1.github.io/Frontend-Mentor-Workit-Landing-Page
 
 
 ## My process
@@ -46,5 +46,5 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AidanRJ1](https://www.frontendmentor.io/profile/AidanRJ1)
 
